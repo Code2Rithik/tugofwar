@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+    font-family: 'Titillium Web', sans-serif;
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(39,158,156,1) 35%, rgba(0,212,255,1) 100%);
+}
+
+h1 {
+    font-family: 'Bangers', cursive;
+}
+
+i {
+    color: #01F3FF;
+}
+
+i:hover {
+    color: #00C5CF;
+}
+
+a {
+    font-family: 'Titillium Web', sans-serif;
+}
